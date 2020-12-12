@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Hakason-J.unity
+    guid: 62a7524f37e01414283867efb85268ba
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0d0e5e704153c4a4bbb4071fea92ae71, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0e7756a4bfc9f1d46bf6ea11d4a6a93b, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 600a01ea166ea49a794bf0affb5cfc03, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 573dcadbc7ec941aa9c5db787cd49d8f, type: 2}
